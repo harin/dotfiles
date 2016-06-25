@@ -1,1 +1,91 @@
-/Users/harinsa/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings
+{
+	"binary_file_patterns":
+	[
+		"node_modules/*",
+		"build/*"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"extra_file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"extra_folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"/Users/harinsa/Documents/jitta/project-h/public/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/public/img/partner/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/dump.rdb",
+		"/Users/harinsa/Documents/jitta/project-h/apps/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/apps/api/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/scripts/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/scripts/screener/npm-debug.log",
+		"/Users/harinsa/Documents/jitta/project-h/jeditor/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/apps/post/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/public/img/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/scripts/screener/.DS_Store",
+		"/Users/harinsa/Documents/jitta/project-h/scripts/screener/dump.rdb"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "inconsolata",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Blade Snippets"
+	],
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
